@@ -1,1 +1,1 @@
-# libera-o-de-maconha
+# liberação-da-maconha
