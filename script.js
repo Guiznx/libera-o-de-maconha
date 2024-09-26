@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "A liberação da maconha é de batida quanto à legalização para uso medicinal e revreativo, apoio a legalização inclui beneficios medicos e redução da criminalidade, enquanto os opositores citam preocupações de saude e segurança. Voçê acga que a maconha deve ser liberada para uso recreativo?"
+        enunciado: "A liberação da maconha é debatida quanto à legalização para uso medicinal e revreativo, apoio a legalização inclui beneficios medicos e redução da criminalidade, enquanto os opositores citam preocupações de saude e segurança. Voçê acga que a maconha deve ser liberada para uso recreativo?",
         alternativas: [
             {
                 texto: "Sim, a legalização pode gerar impostos e regular o consumo de forma mais segura"
