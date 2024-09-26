@@ -17,7 +17,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "A legalização da maconha pode ajudar a combater p trafico de drogas no brasil?"
+        enunciado: "A legalização da maconha pode ajudar a combater p trafico de drogas no brasil?",
         alternativas: [
             {
                 texto: "Sim, ao legalizar, o governos pode desmatelar o comercio ilegal e reduzir a violencia associada"
@@ -28,7 +28,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "A legalisação da maconha poderia gerar receita para o governo Brasileiro através de impostos?"
+        enunciado: "A legalisação da maconha poderia gerar receita para o governo Brasileiro através de impostos?",
         alternativas: [
             {
                 texto: "Sim, com a venda legalizada,o governo poderia arrecadar impostos que poderiam ser investidos em saúde e educação"
@@ -39,7 +39,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Deve o Brasil segir o exemplo de países que ja legalizaram a maconha"
+        enunciado: "Deve o Brasil segir o exemplo de países que ja legalizaram a maconha?",
         alternativas: [
             {
                 texto: "Sim, experiencias internacionais podem fornecer licões valiosas sobre regulamentação econtrole"
